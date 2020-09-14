@@ -6,7 +6,7 @@
 
 ### 2.使用方式
 
-需要依赖redis，自行配置yml种redis配置
+需要依赖redis，自行配置yml中redis配置
 
 拉取代码到本地，执行mvn install，发布到本地仓库
 
